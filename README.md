@@ -2,8 +2,9 @@
 The simplest repo to get you started with tensorflow-gpu using docker
 
 # Prerequisites
-* You need to have an Nvidia driver installed
-* You need to have Docker installed
+* You need an `Nvidia GPU` (you can train using CPU if you don't have a GPU, but then you don't need this guide, just run `pip install tensorflow` and get to work)
+* You need to have an `Nvidia Driver` installed
+* You need to have `Docker` installed
 
 That's it, everything else should work instantly if you follow the [Getting Started](https://github.com/galtzi1910/docker-tensorflow-gpu/blob/main/README.md#getting-started) section, it's that simple!
 
